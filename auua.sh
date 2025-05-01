@@ -4,7 +4,6 @@
 # Optional removal of unnecessary packages before upgrading.
 # After updating the package list and upgrading the installed packages it cleans up unnecessary software.
     
-
    echo "Clean up unused dependincies before upgrading? (y/n)"
    read -r anwser
 
