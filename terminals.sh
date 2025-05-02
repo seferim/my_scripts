@@ -2,7 +2,6 @@
 
 # Number of terminal emulators that get launched on startup.  
 
-
 xfce4-terminal --title=Programming &
 sleep 0.8
 xdotool search --sync --name Programming windowmove %@ 200 115
